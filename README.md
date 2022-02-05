@@ -21,4 +21,4 @@ Videos:
 
 Download stable releases here: https://github.com/sailro/Reflexil/releases
 
-or nightly releases here: https://sailro.visualstudio.com/Reflexil/_build?definitionId=2&_a=summary&view=runs
+Or nightly releases here: https://sailro.visualstudio.com/Reflexil/_build?definitionId=2&_a=summary&view=runs
